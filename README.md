@@ -1,2 +1,2 @@
-# Terradom-code
+# Terraform-code
 Códigos Terrafom
