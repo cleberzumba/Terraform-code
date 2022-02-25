@@ -1,3 +1,5 @@
+# Provisionando na Amazon Web Services (AWS) uma instancia EC2, conectando remoto e instalando Nginx web-server com Terraform.
+
 provider "aws" {
   region     = "us-west-2"
   access_key = ""
