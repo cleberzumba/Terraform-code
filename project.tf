@@ -1,3 +1,7 @@
+# Provisionando na Google Cloud uma instancia Compute Engine, um Firewall e instalando Nginx web-server. 
+# Na camada de Banco de Dados provisionando Cloud SQL e Cloud Spanner multi-regional. 
+# Tudo 100% Infraestructure as Code (IaC) com Terraform.
+
 # Configura o projeto GCP
 provider "google" {  
   project     = ""
